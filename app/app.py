@@ -670,5 +670,5 @@ with tab4:
 st.divider()
 
 st.caption(
-    "🚀 Built with Streamlit | Futuristic AI Executive Intelligence Platform"
+    "🚀 M. Wildan Nabila | Futuristic AI Executive Intelligence Platform"
 )
